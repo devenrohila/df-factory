@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "appfactory-2610"
+		},
+		"demodatalake25102023_accountKey": {
+			"value": ""
+		},
+		"demodatalake25102023_properties_typeProperties_url": {
+			"value": "https://demodatalake25102023.dfs.core.windows.net/"
+		}
+	}
+}
